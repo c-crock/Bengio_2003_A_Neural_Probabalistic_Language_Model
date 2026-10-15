@@ -1,0 +1,1 @@
+Replicating "A Neural Probabilistic Language Model"; word embeddings to learn high-dimension strings.
